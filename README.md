@@ -1,16 +1,20 @@
-## Hi there 👋
+# **ramaniyada**
 
-<!--
-**ramaniyada/ramaniyada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- I build and learn through code.
+- Interested in software, problem-solving, and continuous improvement.
+- Always exploring new tools and ideas.
+
+## What you'll find here
+- Small experiments and learning projects
+- Personal tools and utilities
+- Notes, demos, and prototypes
+
+## Currently
+- 🌱 Learning and iterating on new skills
+- 🧪 Building side projects when I can
+- 📌 Keeping things simple and shipping often
