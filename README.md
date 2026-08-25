@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Marcus Tan. This is my second github account, you can catch me at my main account -> ([@Marcussy34](https://github.com/Marcussy34))
+# 👋 Hi, I'm Marcus Tan. 
+
+# This is my second github account, you can catch me at my main account here! -> ([@Marcussy34](https://github.com/Marcussy34))
 
 ### Full Stack Developer / AI Engineer / Web3 Enthusiast | BsC Computer Science (AI & Cybersecurity)
 
