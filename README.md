@@ -10,6 +10,7 @@
 
 | 📅 Event & Year | 🏅 Placement & Awards | 🔗 Project Repository |
 |----------------|----------------------|-----------------------|
+| **MUBA Hackathon 2026** | 🥇 **1st Place (AI x SUI)**,  🥇 **1st Place (GonkaRouter - AI for Society)** | [OpenVerdict](https://github.com/Marcussy34/openverdict) |
 | **Solana KL Mini Hackathon 2026** | 🥉 **3rd Place** | [SAFE](https://github.com/Marcussy34/safe) |
 | **Solana Network State Spring 2026** | 🥈 **2nd Place** | [Predictefy](https://www.predictefy.com) |
 | **Cursor × Anthropic Hackathon 2025** | 🥇 **1st Place (Best Indie Hacker), 🏁 Finalist** | [Koyak Kombat](https://github.com/Marcussy34/koyak-kombat) |
